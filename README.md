@@ -17,6 +17,9 @@ User inputs a word and gets five different definitions (from Reuters, NPR, Buzzf
 - HTML
 - Excel
 
+## Instructions
+Please check out [instructions](instructions.md)
+
 ## Process summary
 
 1. Choose style guides to scrape
