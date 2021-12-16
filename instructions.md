@@ -2,9 +2,10 @@
 To run this project locally on your computer, you'll need: Python, Jupyter Notebook and Excel installed.
 Within Python, you will also need the Pandas library.
 
-To install Python: Follow the instructions [here](http://littlecolumns.com/tools/python-wrangler)
-To install Jupyter Notebook: Follow the instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
-To install Pandas: Follow the instructions [here](https://pandas.pydata.org/docs/getting_started/install.html)
+- To install Python: Follow the instructions [here](http://littlecolumns.com/tools/python-wrangler)
+- To install Jupyter Notebook: Follow the instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+- To install Pandas: Follow the instructions [here](https://pandas.pydata.org/docs/getting_started/install.html)
+
 *For Reuters, I used PDF miner to extract text from the PDF and converted it into an HTML file. To run the Reuters notebook, you can skip the PDF part and just download the HTML file [here](reuters/reuters-styleguide.html)*
 
 Each newsroom folder has the individual notebooks I used to scrape each website. If you'd like to just see the final product, skip those and head to the [all-combined](all-combined) folder. Download the cleaned excels from here and the [all-combined](all-combined/all-combined.ipynb) notebook to run locally.
