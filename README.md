@@ -4,7 +4,7 @@
 
 Compare how different words are defined by different news organizations to get an insight into their editorial decisions.
 
-My hope is comparing older news orgs like Reuters to newer ones like BuzzFeed will be reflective of the industry's editorial direction as a whole. The news orgs I've chosen also have quite a wide ranging readership and would be interesting to measure all these five on the same scale. Some editorial decisions taken in this analysis include not scraping some unique features of each style guide — just in the interest of maintaining standardization across the board.
+My hope is comparing older news orgs like Reuters to newer ones like BuzzFeed will be reflective of the industry's editorial direction as a whole. The news orgs I've chosen have a wide ranging readership and would be interesting to measure all these five on the same scale. Some editorial decisions taken in this analysis include not scraping some unique features of each style guide — just in the interest of maintaining standardization across the board.
 
 ## What will the final tech product(?) look like?
 
@@ -24,9 +24,9 @@ Please check out [instructions](instructions.md)
 
 1. Choose style guides to scrape
 
-   I picked [Reuters](https://www.reuters.com), [BBC](https://www.bbc.com), [The Guardian](https://www.theguardian.com/international), NPR and [BuzzFeed](https://www.buzzfeednews.com). I wanted to include AP and a couple local news orgs as well, but in the interest of keeping the scope of the project manageable with the given time frame, chose to stick to these five. Some (like AP's) just weren't available for free!
+   I picked [Reuters](https://www.reuters.com), [BBC](https://www.bbc.com), [The Guardian](https://www.theguardian.com/international), [NPR](https://www.npr.org/sections/news/) and [BuzzFeed](https://www.buzzfeednews.com). I wanted to include AP and a couple local news orgs as well, but in the interest of keeping the scope of the project manageable with the given time frame, chose to stick to these five. Some (like AP's) just weren't available for free!
 
-2. Used a combination of Selenium and Beautiful Soup to scrape. Used Regex to analyze text.
+2. Used Beautiful Soup to scrape. Used Regex to analyze text.
 
 ### Style guide formats:
 
