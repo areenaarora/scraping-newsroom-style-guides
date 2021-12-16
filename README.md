@@ -11,11 +11,11 @@ My hope is comparing older news orgs like Reuters to newer ones like BuzzFeed wi
 User inputs a word and gets five different definitions (from Reuters, NPR, Buzzfeed, BBC, The Guardian).
 
 ## Tech stack used:
-Python — BeautifulSoup and Pandas
-Regex
-PDFMiner
-HTML
-Excel
+- Python — BeautifulSoup and Pandas
+- Regex
+- PDFMiner
+- HTML
+- Excel
 
 ## Process summary
 
@@ -49,8 +49,8 @@ Excel
 12. Clean each excel
 13. Convert the clean excels back to dataframes
 14. Write code to input word (case insensitive!!!) and search through each dataframe ---> Figure out how to standardize with British and American spellings
-14. Produce output
-15. Test out a couple of words and write about the analysis
+15. Produce output
+16. Test out a couple of words and write about the analysis
 
 ## Summaries scraping each style guide
 BuzzFeed, NPR, BBC and Guardian all scraped with BeautifulSoup
@@ -83,17 +83,17 @@ So, after creating individual dataframes, I exported them into individual excels
 The first function I wrote was searching for exact matches in the word columns of each dataframe, but I realized that one it was missing out on words that were in a different case from the user's input and inputting absolute exact matches isn't always going to be the case. For instance: The input 'terror' captures: terrorism, terrorist, war on terror etc
 
 ### Interesting cases/suggested searches:
-Americanisms
-assisted suicide
-bomb warning / hoax
--ization, -isation
-military terminology
-families
-gategate
-gender issues
-Geneva conventions
-Sheikha Latifa
-Roman numerals
-told
-cash me ousside, howbow dah
-And my favorite 🥁🥁🥁 CHICKEN TIKKA MASALA!
+- Americanisms
+- assisted suicide
+- bomb warning / hoax
+- -ization, -isation
+- military terminology
+- families
+- gategate
+- gender issues
+- Geneva conventions
+- Sheikh
+- Roman numerals
+- told
+- cash me ousside, howbow dah
+- And my favorite 🥁🥁🥁 CHICKEN TIKKA MASALA!
