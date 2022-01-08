@@ -2,6 +2,8 @@
 To run this project locally on your computer, you'll need: Python, Jupyter Notebook and Excel installed.
 Within Python, you will also need the Pandas library.
 
+If instead you'd like to view/run the code on cloud, check [this](https://colab.research.google.com/github/areenaarora/scraping-newsroom-style-guides/blob/master/all-combined/all-combined.ipynb)
+
 - To install Python: Follow the instructions [here](http://littlecolumns.com/tools/python-wrangler)
 - To install Jupyter Notebook: Follow the instructions [here](https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
 - To install Pandas: Follow the instructions [here](https://pandas.pydata.org/docs/getting_started/install.html)
