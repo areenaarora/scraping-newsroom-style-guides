@@ -1,5 +1,9 @@
 # Comparing news agencies' style guides
 
+## UPDATE:
+I scraped the styleguides again on February 26, 2022 and you can find a searchable version here:
+[Searchable styleguides database](https://areenaarora.com/comparing-newsrooms-styleguides/)
+
 ## Goal
 
 Compare how different words are defined by different news organizations to get an insight into their editorial decisions.
