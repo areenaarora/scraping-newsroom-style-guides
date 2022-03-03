@@ -68,6 +68,8 @@ All entries wrapped in `<p>` tags!
 
 Some `<p>` tags contained multiple entries!! So figuring out how to split those was challenging.
 
+***Disclaimer: The entries after BuzzFeed's alphabetical list are not included in this scrape***
+
 ### NPR
 Fairly consistent with all of it being on one page and all the words nested inside <p> tags
 
